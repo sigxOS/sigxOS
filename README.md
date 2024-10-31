@@ -7,9 +7,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sigxOS&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sigxOS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## Trofei
-![](https://github-profile-trophy.vercel.app/?username=sigxOS&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### Repository 
 ![](https://github-contributor-stats.vercel.app/api?username=sigxOS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
